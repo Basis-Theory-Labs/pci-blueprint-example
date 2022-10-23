@@ -42,5 +42,5 @@ yarn dev
 | File                                          | Description                                                              |
 | --------------------------------------------- | ------------------------------------------------------------------------ |
 | [`pages/index.js`](./pages/index.js)          | Initialize Basis Theory Elements                                         |
-| [`pages/card-form.js`](./cpages/card-form.js) | Card form using CardElement and tokenizing the collected cardholder data |
+| [`pages/card-form.js`](./pages/card-form.js) | Card form using CardElement and tokenizing the collected cardholder data |
 | [`pages/api/proxy.js`](./pages/api/proxy.js)  | Outbound call to using Basis Theory Proxy                                |
